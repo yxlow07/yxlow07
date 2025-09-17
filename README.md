@@ -1,23 +1,88 @@
-# 💫 About Me:
-I am currently working on enhancing my deep learning skills, exploring novel ways to solve problems using machine learning and contributing my knowledge to teach others. I am currently the Technical Director of <b>AMISO</b>, specializing in building a platform for the organization. I am also a student at <b>INTI International College Penang</b> where I am studying Cambridge A-Level. I am always on the lookout for a hackathon!
+# Yu Xuan Low
 
+Backend Developer • Machine Learning Engineer • Competitive Programmer (Codeforces Specialist)
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_yu_xuan_07) [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/low-yu-xuan)
+---
 
+## 🚀 Professional Overview
 
-### Languages:
+I build reliable backend systems and applied AI solutions, combining rigorous algorithmic thinking with practical product delivery. Currently Technical Director at **AMISO**, where I architect and develop platforms that serve real users. My focus spans backend engineering (APIs, systems design), applied machine learning (classification, NLP, experimentation), and scalable cross‑platform app development.
 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+## 🎯 Current Focus
 
-### Frameworks:
+- Deepening expertise in deep learning & open-world generalization
+- Exploring practical NLP use-cases
+- Shipping impactful educational and health-tech products
+- Mentoring peers and contributing to technical communities
 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)  ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)  ![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white)  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)  ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)  
+## 📄 Curriculum Vitae
 
-### Technologies:
+Latest CV: [CV_Low_Yu_Xuan.pdf](https://yxlow07.github.io/CV_Low_Yu_Xuan.pdf)
 
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)  ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)  ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)  ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)  ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)  ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+## 🧠 Core Technical Skills
 
+**Languages:** Python, C++, PHP, Dart, JavaScript
+
+**Frameworks & Tools:** Django, Laravel, Flutter, REST API design, Tailwind CSS
+
+**ML / Data:** TensorFlow, PyTorch, scikit-learn, model training & evaluation, mathematical modelling, differential equations
+
+**Strengths:** Algorithmic problem solving, clean system design, rapid prototyping, full-cycle feature implementation
+
+## 📚 Education
+
+- **Cambridge A Level**, INTI International College Penang (2025–2026)  
+  Extracurricular: Intake Representative, Student Government
+- **Sijil Pelajaran Malaysia (SPM)**, Chung Ling High School (2020–2024)  
+  9A+, 1A • 2nd in Year • Best Student Graduate Award  
+  Leadership: Chief Executive – International Student Camp; Vice President – i-CreatorZ (Maker's Club); Secretary – Graduation Magazine
+
+## 🏅 Certifications
+
+- Neural Networks and Deep Learning – DeepLearning.ai (2025)  
+  Skills: Neural Networks, Differential Equations, Mathematical Modelling, ML
+- Information Technology and Computer Science – MCKL College (2024)  
+  Skills: Networking, Computer Systems, IoT
+
+## 🧩 Competitive Programming & Academic Achievements
+
+- National Artificial Intelligence Competition (2025) – 1st Runner Up
+- LingHacks VI (2025) – Best Beginner Project + 3rd Runner Up
+- Malaysia Artificial Intelligence Olympiad (2025) – Gold
+- Malaysia Computing Olympiad (2025) – Silver
+- Codeforces – Specialist (1429)
+- CALICO (Fall 2024) – Silver
+- Malaysia Computing Challenge (2024 Gold, 2023 Bronze)
+- Kangaroo Math Competition (2024 Gold, 2023 Silver)
+- SASMO (2024 Silver; 2023 & 2022 Bronze)
+
+## 🛠 Selected Projects
+
+| Project             | Summary                                                                                 | Stack / Focus                 |
+| ------------------- | --------------------------------------------------------------------------------------- | ----------------------------- |
+| **GUIDE-SHARK**     | ML-assisted triage: Generative UI + symptom analysis for faster differential evaluation | Flutter, Django, ML, REST API |
+| **Study Scroll**    | A social revision platform for A Level students leveraging engagement mechanics         | Flutter, AI features, EduTech |
+| **Maker Kehadiran** | Custom PHP MVC attendance management system (CRUD, streamlined data flows)              | PHP, MVC, SQL, Tailwind       |
+
+## 🤖 Machine Learning Interests
+
+Open-world generalization, practical NLP (emotion + context extraction), model robustness, and integrating ML systems into production-grade apps with thoughtful UX.
+
+## ✍️ Writing & Knowledge Sharing
+
+I publish concise technical and reflective posts (algorithms, ML concepts, project breakdowns). Recent topics include competitive programming techniques and applied classification workflows. (See [Blog Link](https://yxlow07.github.io/blog) on the site for the latest.)
+
+## 📬 Contact & Collaboration
+
+I’m open to internships, research collaborations, hackathons, and backend/ML project roles.
+
+**Email:** yuxuanlow013@gmail.com
+**GitHub:** https://github.com/yxlow07  
+**LinkedIn:** https://www.linkedin.com/in/low-yu-xuan/
+
+Feel free to reach out regarding impactful, learning-heavy opportunities.
+
+---
 
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=yxlow07&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
